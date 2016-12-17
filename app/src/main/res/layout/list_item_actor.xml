@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/cont"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/address_p"
+        android:layout_marginLeft="14dp"
+        android:layout_marginStart="14dp"
+        android:layout_marginTop="10dp"
+        android:id="@+id/img_Actor"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:text="Click on Phone to make call"
+        android:layout_width="170dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvActorName"
+        android:textSize="20sp"
+        android:paddingTop="10dp"
+        android:layout_alignTop="@+id/img_Actor"
+        android:layout_toRightOf="@+id/img_Actor"
+        android:layout_toEndOf="@+id/img_Actor"
+        android:layout_marginLeft="11dp"
+        android:layout_marginStart="11dp"
+        android:textColor="#FFFFFF"/>
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="113dp"
+        app:srcCompat="@drawable/phone_c"
+        android:layout_below="@+id/tvActorName"
+        android:layout_toRightOf="@+id/tvActorName"
+        android:layout_toEndOf="@+id/tvActorName"
+        android:id="@+id/img_Detail" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            app:srcCompat="@drawable/db"
+            android:layout_marginLeft="14dp"
+            android:layout_marginStart="14dp"
+            android:layout_marginTop="10dp"
+            android:id="@+id/db"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <TextView
+            android:text="Click on Phone to make call to DB"
+            android:layout_width="170dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/tvdb"
+            android:textSize="20sp"
+            android:paddingTop="10dp"
+            android:layout_alignTop="@+id/img_Actor"
+            android:layout_toRightOf="@+id/img_Actor"
+            android:layout_toEndOf="@+id/img_Actor"
+            android:layout_marginLeft="11dp"
+            android:layout_marginStart="11dp"
+            android:textColor="#FFFFFF"/>
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="113dp"
+            app:srcCompat="@drawable/phone_c"
+            android:layout_below="@+id/tvActorName"
+            android:layout_toRightOf="@+id/tvActorName"
+            android:layout_toEndOf="@+id/tvActorName"
+            android:id="@+id/img_db" />
+
+    </LinearLayout>
+
+
+
+</LinearLayout>

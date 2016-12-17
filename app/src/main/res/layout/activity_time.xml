@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TimePicker
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/timePicker2" />
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:id="@+id/buttons">
+
+            <Button
+                android:id="@+id/alarm_on"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" android:layout_weight="1"
+                android:text="ALARM ON"    />
+
+            <Button
+                android:id="@+id/alarm_off"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="ALARM OFF" />
+
+            <!--</LinearLayout>-->
+
+            <!--<LinearLayout-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="100dp"-->
+            <!--android:layout_alignBottom="@+id/buttons"-->
+            <!--android:orientation="vertical"-->
+            <!--android:gravity="center_horizontal"-->
+            <!--android:layout_weight="2">-->
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Your setting goes here"
+                android:id="@+id/update_text"/>
+
+            <!--<LinearLayout-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content">-->
+            <!--&lt;!&ndash;<ImageButton&ndash;&gt;-->
+            <!--android:layout_width="70dp"-->
+            <!--android:layout_height="65dp"-->
+            <!--app:srcCompat="@drawable/phone_d"-->
+            <!--android:id="@+id/book_now"-->
+            <!--android:onClick="book_now"-->
+            <!--android:paddingBottom="0dp"-->
+            <!--android:paddingEnd="0dp"-->
+            <!--android:paddingLeft="0dp"-->
+            <!--android:paddingRight="0dp"-->
+            <!--android:paddingStart="0dp"-->
+            <!--android:paddingTop="0dp"-->
+            <!--android:layout_weight="1"-->
+            <!--/>-->
+            <ImageView
+                android:id="@+id/contact"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:src="@drawable/phone_d"
+                android:transitionName="logo_shared"
+                android:layout_weight="1"
+                android:onClick="ourcontact"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/displayName"/>
+
+
+            <!--</LinearLayout>-->
+
+        </LinearLayout>
+
+    </RelativeLayout>
+</LinearLayout>

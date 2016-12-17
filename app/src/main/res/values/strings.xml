@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DB Mens Parlour</string>
+
+    <string-array name="Member_names">
+        <item>Mohan</item>
+    </string-array>
+
+    <array name="profile_pic">
+        <item>@drawable/phone_d</item>
+    </array>
+
+    <array name="phone">
+        <item>@drawable/scissors</item>
+    </array>
+</resources>
