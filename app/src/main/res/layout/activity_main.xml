@@ -14,11 +14,11 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:onClick="checkRippleAnimation"
-        android:textColor="#795548"
+
         android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
         android:gravity="center"
         android:layout_marginTop="10dp"
-        android:text="DB's Mens Parlour"/>
+        android:text="Ripple Effects"/>
 
     <LinearLayout
         android:id="@+id/shared_element"
@@ -32,22 +32,20 @@
 
 
         <ImageView
-            android:id="@+id/imageView"
+            android:id="@+id/logo"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
             android:src="@drawable/scissors"
             android:transitionName="logo_shared"
             android:layout_weight="1"
-            android:onClick="ourservices"
-            android:layout_width="70dp"
-            android:layout_height="70dp" />
-
+            />
         <ImageView
-            android:id="@+id/book"
+            android:id="@+id/logo21"
             android:layout_width="70dp"
             android:layout_height="70dp"
             android:src="@drawable/cal"
             android:transitionName="logo_shared"
             android:layout_weight="1"
-            android:onClick="appointment"
             />
 
     </LinearLayout>
@@ -62,28 +60,25 @@
         >
 
         <ImageView
-            android:id="@+id/address"
-            android:layout_width="70dp"
-            android:layout_height="70dp"
+            android:id="@+id/logo1"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
             android:src="@drawable/address"
             android:transitionName="logo_shared"
             android:layout_weight="1"
-            android:onClick="ouraddress"
             />
 
         <ImageView
             android:id="@+id/contact"
-            android:layout_width="70dp"
-            android:layout_height="70dp"
-            android:src="@drawable/phone_d"
+            android:layout_width="63dp"
+            android:layout_height="63dp"
+            android:src="@drawable/phone_c"
             android:transitionName="logo_shared"
             android:layout_weight="1"
-            android:onClick="ourcontact"
-             />
+            />
 
     </LinearLayout>
 
 
 
 </LinearLayout>
-

@@ -3,165 +3,165 @@
 
     <item
         is-multidex="true"
-        jar="C:\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jar="C:\Users\suken\AndroidStudioProjects\DBMensParlour\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
-        <dex dex="C:\Avenue zip from git  hub\DBMensParlour\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_fc8b7b16fa6cd63b8cff27f9384557489d047a68\classes.dex" />
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\suken\AndroidStudioProjects\DBMensParlour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_976475fa243bff42d4521b20c0fd5dbc695e6003\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Avenue zip from git  hub\DBMensParlour\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jar="C:\Users\suken\AndroidStudioProjects\DBMensParlour\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
-        <dex dex="C:\Avenue zip from git  hub\DBMensParlour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.1_7b6402166b5e1595ccc4d3acc12ff5c54aea8936\classes.dex" />
+        sha1="48e2021b50237f3b73907c6daee7ee135e047052">
+        <dex dex="C:\Users\suken\AndroidStudioProjects\DBMensParlour\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_065eaabe0c35aa7e494003aafd1eb8594b625485\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Avenue zip from git  hub\DBMensParlour\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jar="C:\Users\suken\AndroidStudioProjects\DBMensParlour\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
-        <dex dex="C:\Avenue zip from git  hub\DBMensParlour\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_b746876bca0e59891ec5db60853eb18f5ca88844\classes.dex" />
+        sha1="d7417d4f669653cd162eeed78462c654f7a103b1">
+        <dex dex="C:\Users\suken\AndroidStudioProjects\DBMensParlour\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_222d36b0b493b9d67605c7428705cfd6110d4766\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Avenue zip from git  hub\DBMensParlour\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jar="C:\Users\suken\AndroidStudioProjects\DBMensParlour\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\suken\AndroidStudioProjects\DBMensParlour\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_5da9a04c0636261712d278e3de5ebf6f407de8db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\Users\suken\AndroidStudioProjects\DBMensParlour\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_d7cacdcafbead64c9b7a789bbfbc7616eec4ea84\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\suken\AndroidStudioProjects\DBMensParlour\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="C:\Avenue zip from git  hub\DBMensParlour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.1_1f17fd1f304221c2a5fe5f320963e0250b130450\classes.dex" />
+        <dex dex="C:\Users\suken\AndroidStudioProjects\DBMensParlour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.0_cad2cbfcba972efcdbe61477911d6f40c8d6000a\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Avenue zip from git  hub\DBMensParlour\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jar="C:\Users\suken\AndroidStudioProjects\DBMensParlour\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
-        <dex dex="C:\Avenue zip from git  hub\DBMensParlour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.1_b383a2ab5b02b345594f1734753070a506497426\classes.dex" />
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\suken\AndroidStudioProjects\DBMensParlour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_c6e4626b8e68c69b74b204e1ccb83c44a1034bae\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Avenue zip from git  hub\DBMensParlour\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jar="C:\Users\suken\AndroidStudioProjects\DBMensParlour\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
-        <dex dex="C:\Avenue zip from git  hub\DBMensParlour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.1_55cabd20acd22a263e674d6c25dd1b3b17f6aeff\classes.dex" />
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\Users\suken\AndroidStudioProjects\DBMensParlour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.0_8427ee260c5c21ecc86aa54f40be2b22d7a27636\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Avenue zip from git  hub\DBMensParlour\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
-        <dex dex="C:\Avenue zip from git  hub\DBMensParlour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.1_4e599cfa128b967016df56653ed95e7a2cdc8050\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Avenue zip from git  hub\DBMensParlour\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jar="C:\Users\suken\AndroidStudioProjects\DBMensParlour\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
-        <dex dex="C:\Avenue zip from git  hub\DBMensParlour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_c4847af1ef4d53fc916c04735a26308c2a4443f2\classes.dex" />
+        <dex dex="C:\Users\suken\AndroidStudioProjects\DBMensParlour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_6546821925325dbaf55b54a3b1f0407e831a3a3c\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Avenue zip from git  hub\DBMensParlour\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jar="C:\Users\suken\AndroidStudioProjects\DBMensParlour\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="bb1d8782570c6d383a66d6517cc21e6877dfaf95">
-        <dex dex="C:\Avenue zip from git  hub\DBMensParlour\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_ed7ed62d5e581ffe80217ba2bbb778f6018dead2\classes.dex" />
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\suken\AndroidStudioProjects\DBMensParlour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_70db3f4275b7502f0806d76bd183d7f11af6bd13\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Avenue zip from git  hub\DBMensParlour\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jar="C:\Users\suken\AndroidStudioProjects\DBMensParlour\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
-        <dex dex="C:\Avenue zip from git  hub\DBMensParlour\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_5e47a24a3b1e68c630e4abf11c096a24bf43fd2c\classes.dex" />
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\suken\AndroidStudioProjects\DBMensParlour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_c2afeeb3e90b19ae9e8a37dee7ed11bfa44589fc\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Avenue zip from git  hub\DBMensParlour\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="C:\Users\suken\AndroidStudioProjects\DBMensParlour\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="5c890138f3dafcfd1233b1f1a3f7b15ceccd0c99">
-        <dex dex="C:\Avenue zip from git  hub\DBMensParlour\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_2f03f6569a32f8682761afda48f11dcffda97f7f\classes.dex" />
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\Users\suken\AndroidStudioProjects\DBMensParlour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.0_a94914160a8bc34f4304317edcaa11a18115d3c9\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Avenue zip from git  hub\DBMensParlour\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jar="C:\Users\suken\AndroidStudioProjects\DBMensParlour\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="f83b00041ecfba705603fec40363416c7de69719">
-        <dex dex="C:\Avenue zip from git  hub\DBMensParlour\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_b4e7bd86d38b6cfb7fd5af5ffc792f7336e4f156\classes.dex" />
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\Users\suken\AndroidStudioProjects\DBMensParlour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.0_a738f6d53eb1c165b9e70e1f56555954c0d356e4\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Avenue zip from git  hub\DBMensParlour\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jar="C:\Users\suken\AndroidStudioProjects\DBMensParlour\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
-        <dex dex="C:\Avenue zip from git  hub\DBMensParlour\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_4734a637777fdd6260be5c8399dec4b4d05eb3cc\classes.dex" />
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\suken\AndroidStudioProjects\DBMensParlour\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_328855c53f3a2a80d7eae7e782a3a38a963a990d\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Avenue zip from git  hub\DBMensParlour\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jar="C:\Users\suken\AndroidStudioProjects\DBMensParlour\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
-        <dex dex="C:\Avenue zip from git  hub\DBMensParlour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.1_62f833931121d439030934f05aebaae7ca72861f\classes.dex" />
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\suken\AndroidStudioProjects\DBMensParlour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_0b4a442584fed1d12b1b012d8feb8f4814a2f583\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Avenue zip from git  hub\DBMensParlour\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jar="C:\Users\suken\AndroidStudioProjects\DBMensParlour\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
-        <dex dex="C:\Avenue zip from git  hub\DBMensParlour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.1_07f4b92bfa40a889f2e628bf06fd28c1b37c91f3\classes.dex" />
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\suken\AndroidStudioProjects\DBMensParlour\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_bd352afcfbae1aa571e0c73452fe5799950d8f77\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Avenue zip from git  hub\DBMensParlour\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jar="C:\Users\suken\AndroidStudioProjects\DBMensParlour\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\suken\AndroidStudioProjects\DBMensParlour\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_23a349337f7f927f5f30feb2898acda99e5d6b1f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\suken\AndroidStudioProjects\DBMensParlour\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
-        <dex dex="C:\Avenue zip from git  hub\DBMensParlour\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_bfdcb5638ea4f28beb7a57f5df72577e9a6f467a\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Avenue zip from git  hub\DBMensParlour\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
-        <dex dex="C:\Avenue zip from git  hub\DBMensParlour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.1_21d865e6abeffe39d1f9b9fbb9a5323dedede4b1\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Avenue zip from git  hub\DBMensParlour\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
-        <dex dex="C:\Avenue zip from git  hub\DBMensParlour\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.1_6099ee549ce81a8e55db25d7f900478dba8ed9c5\classes.dex" />
+        <dex dex="C:\Users\suken\AndroidStudioProjects\DBMensParlour\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_1d33abaf7975f587b332e8629412ff82de947e3a\classes.dex" />
     </item>
 
 </items>
